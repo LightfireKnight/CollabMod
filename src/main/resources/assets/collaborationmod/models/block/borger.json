@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "collaborationmod:blocks/terminalclosed",
+    "up": "collaborationmod:blocks/terminalclosed",
+    "north": "collaborationmod:blocks/terminalclosed",
+    "east": "collaborationmod:blocks/terminalclosed",
+    "south": "collaborationmod:blocks/terminalclosed",
+    "west": "collaborationmod:blocks/terminalclosed",
+    "particle": "collaborationmod:blocks/terminalclosed"
+  }
+}
